@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8534
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Shearly_Cripps
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22886#Cinderella-in-the-SouthTwenty-Five-South-African-Tales
 gutenberg_bookshelf:
 - Children's Myths, Fairy Tales, etc.
 - South Africa
